@@ -11,7 +11,7 @@ I am a Full Stack Developer 👩🏼‍💻, learning something new about the wo
 
 <p align="center">
 
-![local image](jpgs\inspiraational.jpg)
+![local image]( ./jpgs/inspiraational.jpg)
 </p>
 
 <hr>
@@ -86,7 +86,7 @@ I am a Full Stack Developer 👩🏼‍💻, learning something new about the wo
   <a href="mailto:fatimalabade@gmail.com">
      <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
   </a>
-    <a href="https://github.com/FatimaLDL1997/FatimaLDL1997/issues/1">
+    <a href="https://github.com/FatimaLDL1997/AMA/issues/1">
      <img src="https://img.icons8.com/?size=50&id=118553&format=png&color=000000"/>
   </a>
 </p>
