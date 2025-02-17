@@ -1,4 +1,3 @@
-#portfolio#
 ## Hey there 👋, I'm [Fatima!](https://github.com/FatimaLDL1997)
 
 
