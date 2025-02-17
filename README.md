@@ -8,7 +8,7 @@ I am a Full Stack Developer 👩🏼‍💻, learning something new about the wo
 <hr>
 
 
-<img src =./jpgs/inspiraational.jpg/ align="center" height="200" width="400">
+<img src =./jpgs/inspiraational.jpg/ align="center" height="200" width="100%">
 
 <hr>
 
