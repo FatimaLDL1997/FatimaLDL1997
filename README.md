@@ -8,11 +8,7 @@ I am a Full Stack Developer 👩🏼‍💻, learning something new about the wo
 <hr>
 
 
-
-<p align="center">
-
-![local image]( ./jpgs/inspiraational.jpg)
-</p>
+<img src =./jpgs/inspiraational.jpg/ align="center" height="200" width="400">
 
 <hr>
 
