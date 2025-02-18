@@ -1,12 +1,10 @@
 ## Hey there 👋, I'm [Fatima!](https://github.com/FatimaLDL1997)
 
-
 ### Glad to see you here!
 
-
 I am a Full Stack Developer 👩🏼‍💻, learning something new about the world of coding everyday. 📖
-<hr>
 
+<hr>
 
 <img src =./jpgs/inspiraational.jpg/ align="center"  width="100%">
 
@@ -19,28 +17,34 @@ I am a Full Stack Developer 👩🏼‍💻, learning something new about the wo
 - 🛠 &nbsp; I am working with React, MongoDB, Express, Node, Next JS, etc.
 - 🚀 &nbsp; I am exploring AI, LLMs, React Native, Next JS, AWS etc.
 <!-- - 💡 &nbsp; I also know JS, CSS3, React, Mongoose, Cloudinary, Auth0, Stripe, JWT, Python, C, C++ and more. -->
-- 👾 &nbsp; Fun fact about me: I am a Full-Stack Developer & a Mechatronics Engineer. 
+- 👾 &nbsp; Fun fact about me: I am a Full-Stack Developer & a Mechatronics Engineer.
 - 🌐 &nbsp; My best full-stack project: 'Let's Share our Recipes' website. Click [here](https://lets-share-our-recipes.onrender.com/dashboard/all-recipes) to check it out.
-- 🤖 &nbsp; My best robotic project: Self-driving Package Retrieval Robot. Click [here](https://www.linkedin.com/posts/fatima-labade_programming-python-project-activity-6772493579181969408-9e25?utm_source=share&utm_medium=member_desktop&rcm=ACoAACi-Nx0BctDkF0NIY1hvYc7WDoKTTaiEryQ) to check it out. 
+- 🤖 &nbsp; My best robotic project: Self-driving Package Retrieval Robot. Click [here](https://www.linkedin.com/posts/fatima-labade_programming-python-project-activity-6772493579181969408-9e25?utm_source=share&utm_medium=member_desktop&rcm=ACoAACi-Nx0BctDkF0NIY1hvYc7WDoKTTaiEryQ) to check it out.
 - 🎨 &nbsp; My Hobbies: Painting, coding, and robotics.
-
 
 <h2 align="center"> ⚡️ Technology Stack: </h2>
                   
 <p align="center">
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/arduino/arduino-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/raspberrypi/raspberrypi-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/axios/axios-plain.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodemon/nodemon-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/canva/canva-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg"></code>
+
 </p>
+
 
 
 <br />
@@ -87,9 +91,6 @@ I am a Full Stack Developer 👩🏼‍💻, learning something new about the wo
   </a>
 </p>
 
-
 <div align="center">
-
-
 
 </div>
