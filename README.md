@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm [Fatima!](https://github.com/FatimaLDL1997)
 
-### Glad to see you here!
+### Thanks for Passing by!
 
 I am a Full Stack Developer 👩🏼‍💻, learning something new about the world of coding everyday. 📖
 
@@ -10,16 +10,17 @@ I am a Full Stack Developer 👩🏼‍💻, learning something new about the wo
 
 <hr>
 
-<img align="right" height="250" width="375" alt="" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" />
+<!-- <img align="right" height="250" width="375" alt="" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" /> -->
 
-### Talking about Personal Stuff:
+<h2 align="center"> 🧕 About Me: </h2>
 
-- 🛠 &nbsp; I am working with React, MongoDB, Express, Node, Next JS, etc.
+
+- 🛠 &nbsp; I am working with React, MongoDB, Express, Node & Next JS.
 - 🚀 &nbsp; I am exploring AI, LLMs, React Native, Next JS, AWS etc.
 <!-- - 💡 &nbsp; I also know JS, CSS3, React, Mongoose, Cloudinary, Auth0, Stripe, JWT, Python, C, C++ and more. -->
 - 👾 &nbsp; Fun fact about me: I am a Full-Stack Developer & a Mechatronics Engineer.
 - 🌐 &nbsp; My best full-stack project: 'Let's Share our Recipes' website. Click [here](https://lets-share-our-recipes.onrender.com/dashboard/all-recipes) to check it out.
-- 🤖 &nbsp; My best robotic project: Self-driving Package Retrieval Robot. Click [here](https://www.linkedin.com/posts/fatima-labade_programming-python-project-activity-6772493579181969408-9e25?utm_source=share&utm_medium=member_desktop&rcm=ACoAACi-Nx0BctDkF0NIY1hvYc7WDoKTTaiEryQ) to check it out.
+- 🤖 &nbsp; My best robotics project: Self-driving Package Retrieval Robot. Click [here](https://www.linkedin.com/posts/fatima-labade_programming-python-project-activity-6772493579181969408-9e25?utm_source=share&utm_medium=member_desktop&rcm=ACoAACi-Nx0BctDkF0NIY1hvYc7WDoKTTaiEryQ) to check it out.
 - 🎨 &nbsp; My Hobbies: Painting, coding, and robotics.
 
 <h2 align="center"> ⚡️ Technology Stack: </h2>
