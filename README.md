@@ -47,7 +47,7 @@ I am a Full Stack Developer 👩🏼‍💻, learning something new about the wo
 <code><img height="40" src="https://pngimg.com/d/photoshop_PNG7.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/arduino/arduino-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/raspberrypi/raspberrypi-original.svg"></code>
-<code><img height="40" src="https://th.bing.com/th/id/R.24e4e3e407d53557bd905fa74b468822?rik=jc0XteAIBt3B0A&pid=ImgRaw&r=0&sres=1&sresct=1"></code>
+<code><img height="40" src="https://th.bing.com/th/id/R.53635f5ff623ab4a532bc2e4f5aaed74?rik=nimx6KyMKdgnRw&pid=ImgRaw&r=0"></code>
 <code><img height="40" src="https://th.bing.com/th/id/R.9bc8a833eb3e0a54c87047a50e8263e4?rik=qfvcfPmhLsUyYw&riu=http%3a%2f%2fblogs.sw.siemens.com%2fwp-content%2fuploads%2fsites%2f2%2f2019%2f09%2fUGNX-1-2.png&ehk=a8ec6Bcap48yDhx0cEmhrLa9R5Bwx1v%2fkBehv8aomeo%3d&risl=&pid=ImgRaw&r=0"></code>
 </p>
 
