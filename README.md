@@ -25,34 +25,6 @@ I am a Full Stack Developer 👩🏼‍💻, learning something new about the wo
 
 <h2 align="center"> ⚡️ Technology Stack: </h2>
                   
-<p align="center">
-<code><img height="10" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodemon/nodemon-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/axios/axios-plain.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sass/sass-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg"></code>
-<code><img height="40" src="https://techcrunch.com/wp-content/uploads/2019/10/render-logo-wordmark.png?w=764"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/netlify/netlify-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/canva/canva-original.svg"></code>
-<code><img height="40" src="https://logodix.com/logo/685245.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/raspberrypi/raspberrypi-original.svg"></code>
-<code><img height="40" src="https://th.bing.com/th/id/R.53635f5ff623ab4a532bc2e4f5aaed74?rik=nimx6KyMKdgnRw&pid=ImgRaw&r=0"></code>
-<code><img height="40" src="https://th.bing.com/th/id/R.9bc8a833eb3e0a54c87047a50e8263e4?rik=qfvcfPmhLsUyYw&riu=http%3a%2f%2fblogs.sw.siemens.com%2fwp-content%2fuploads%2fsites%2f2%2f2019%2f09%2fUGNX-1-2.png&ehk=a8ec6Bcap48yDhx0cEmhrLa9R5Bwx1v%2fkBehv8aomeo%3d&risl=&pid=ImgRaw&r=0"></code>
-</p>
-
-
-
 <br />
 
 <h2 align="center"> 🧰 Languages </h2>
