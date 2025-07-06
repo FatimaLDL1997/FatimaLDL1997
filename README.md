@@ -13,11 +13,8 @@ I am a Software Developer 👩🏼‍💻, learning something new about the worl
 <!-- <img align="right" height="250" width="375" alt="" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" /> -->
 
 <h2> 🧕 About Me: </h2>
-
-
 - 🛠 &nbsp; I am working with React, MongoDB, Express, Node & Next JS.
 - 🚀 &nbsp; I am exploring AI, LLMs, React Native, Next JS, AWS etc.
-<!-- - 💡 &nbsp; I also know JS, CSS3, React, Mongoose, Cloudinary, Auth0, Stripe, JWT, Python, C, C++ and more. -->
 - 👾 &nbsp; Fun fact about me: I am a Software Developer with a B.Sc. in Mechatronics Engineering.
 - 🌐 &nbsp; My best full-stack project: 'Focus Forge' website. Click [here](https://www.focusforge.ca) to check it out.
 - 🤖 &nbsp; My best robotics project: Self-driving Package Retrieval Robot. Click [here](https://www.linkedin.com/posts/fatima-labade_programming-python-project-activity-6772493579181969408-9e25?utm_source=share&utm_medium=member_desktop&rcm=ACoAACi-Nx0BctDkF0NIY1hvYc7WDoKTTaiEryQ) to check it out.
@@ -46,12 +43,13 @@ I am a Software Developer 👩🏼‍💻, learning something new about the worl
 <h2> 🤝🏻 Connect with me </h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/fatima-labade/">
-   <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-  </a>
   <a href="https://fatima-l-portfolio.netlify.app/">
    <img src="https://img.icons8.com/?size=50&id=naDnVpQ3BNkR&format=png&color=000000"/>
   </a>
+  <a href="https://www.linkedin.com/in/fatima-labade/">
+   <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  </a>
+  
  
   <a href="mailto:fatimalabade@gmail.com">
      <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
