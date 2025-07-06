@@ -1,18 +1,18 @@
 ## Hey there 👋, I'm [Fatima!](https://github.com/FatimaLDL1997)
 
-### Thanks for Passing by!
+
 
 I am a Software Developer 👩🏼‍💻, learning something new about the world of coding everyday. 📖
 
 <hr>
 
-<img src =./jpgs/inspiraational.jpg/ align="center"  width="100%">
+<img src =./jpgs/inspiraational.jpg/   width="30%">
 
 <hr>
 
 <!-- <img align="right" height="250" width="375" alt="" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" /> -->
 
-<h2 align="center"> 🧕 About Me: </h2>
+<h2> 🧕 About Me: </h2>
 
 
 - 🛠 &nbsp; I am working with React, MongoDB, Express, Node & Next JS.
@@ -23,20 +23,17 @@ I am a Software Developer 👩🏼‍💻, learning something new about the worl
 - 🤖 &nbsp; My best robotics project: Self-driving Package Retrieval Robot. Click [here](https://www.linkedin.com/posts/fatima-labade_programming-python-project-activity-6772493579181969408-9e25?utm_source=share&utm_medium=member_desktop&rcm=ACoAACi-Nx0BctDkF0NIY1hvYc7WDoKTTaiEryQ) to check it out.
 - 🎨 &nbsp; My Hobbies: Painting, coding, and robotics.
 
-<h2 align="center"> ⚡️ Technology Stack: </h2>
-                  
-<br />
 
-<h2 align="center"> 🧰 Languages </h2>
+
+<h2> 🧰 Languages </h2>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaLDL1997&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
   <br />
   
   
-<h2 align="center"> ⚙️ Tools I Use</h2>
-  <summary><b></b>
-  
+<h2> ⚙️ Tools I Use</h2>
+
   </summary>
   	<ul>
 	    <li><b>Code Editor:</b> VSCode </li>
@@ -46,21 +43,16 @@ I am a Software Developer 👩🏼‍💻, learning something new about the worl
 	    <li><b>To Stay Updated:</b> DEV community, Product Hunt, Reddit, Daily.dev and Hacker Noon</li>
 	</ul>
 
-<h2 align="center"> 🤝🏻 Connect with me </h2>
+<h2> 🤝🏻 Connect with me </h2>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/fatima-labade/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
   <a href="https://fatima-l-portfolio.netlify.app/">
    <img src="https://img.icons8.com/?size=50&id=naDnVpQ3BNkR&format=png&color=000000"/>
   </a>
-  <!-- <a href="https://www.instagram.com/fatima_labade/">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
-  </a> -->
-  <!-- <a href="https://www.facebook.com/FatimaLabade.username">
-      <img src="https://img.icons8.com/color/48/000000/facebook.png"/>
-  </a> -->
+ 
   <a href="mailto:fatimalabade@gmail.com">
      <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
   </a>
@@ -69,6 +61,4 @@ I am a Software Developer 👩🏼‍💻, learning something new about the worl
   </a>
 </p>
 
-<div align="center">
-
-</div>
+### Thanks for Passing by!
