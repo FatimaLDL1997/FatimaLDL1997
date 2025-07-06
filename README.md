@@ -26,7 +26,7 @@ I am a Full Stack Developer 👩🏼‍💻, learning something new about the wo
 <h2 align="center"> ⚡️ Technology Stack: </h2>
                   
 <p align="center">
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg"></code>
+<code><img height="10" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg"></code>
