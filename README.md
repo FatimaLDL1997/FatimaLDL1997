@@ -2,7 +2,7 @@
 
 ### Thanks for Passing by!
 
-I am a Full Stack Developer 👩🏼‍💻, learning something new about the world of coding everyday. 📖
+I am a Software Developer 👩🏼‍💻, learning something new about the world of coding everyday. 📖
 
 <hr>
 
@@ -18,8 +18,8 @@ I am a Full Stack Developer 👩🏼‍💻, learning something new about the wo
 - 🛠 &nbsp; I am working with React, MongoDB, Express, Node & Next JS.
 - 🚀 &nbsp; I am exploring AI, LLMs, React Native, Next JS, AWS etc.
 <!-- - 💡 &nbsp; I also know JS, CSS3, React, Mongoose, Cloudinary, Auth0, Stripe, JWT, Python, C, C++ and more. -->
-- 👾 &nbsp; Fun fact about me: I am a Full-Stack Developer & a Mechatronics Engineer.
-- 🌐 &nbsp; My best full-stack project: 'Let's Share our Recipes' website. Click [here](https://lets-share-our-recipes.onrender.com/dashboard/all-recipes) to check it out.
+- 👾 &nbsp; Fun fact about me: I am a Software Developer with a B.Sc. in Mechatronics Engineering.
+- 🌐 &nbsp; My best full-stack project: 'Focus Forge' website. Click [here](www.focusforge.ca) to check it out.
 - 🤖 &nbsp; My best robotics project: Self-driving Package Retrieval Robot. Click [here](https://www.linkedin.com/posts/fatima-labade_programming-python-project-activity-6772493579181969408-9e25?utm_source=share&utm_medium=member_desktop&rcm=ACoAACi-Nx0BctDkF0NIY1hvYc7WDoKTTaiEryQ) to check it out.
 - 🎨 &nbsp; My Hobbies: Painting, coding, and robotics.
 
